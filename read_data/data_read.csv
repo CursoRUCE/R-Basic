@@ -1,0 +1,21 @@
+Identificacion,Edad,Auto,Vivienda,Genero,Region,Dependiente,Estado_civil,Cargas,Egresos_mensuales,Ingresos_mensuales,Score,Endeudamiento_promedio,Calificacion
+0903786895,82,0,Otros,Masculino,Costa,No,Soltero,0,400,1000,939,37.57,A
+0101107613,57,0,Propia,Femenino,Sierra,No,Soltero,0,,292,957,251.09,A
+1001568045,49,1,Sin Info,Masculino,Sierra,No,Casado,1,400,25000,600,88541.16,B
+0925369092,22,0,Familiar,Masculino,Costa,No,Soltero,0,,725,965,142.29,A
+0929609352,19,0,Familiar,Masculino,Costa,No,Soltero,0,,324,917,35.3,A
+1311262107,24,0,Propia,Masculino,Costa,No,Soltero,0,280,450,30,54.18,A
+2450087669,19,0,Familiar,Masculino,Costa,No,Soltero,0,360,900,874,42.88,A
+0400463733,63,0,Propia,Femenino,Sierra,No,Divorciado,0,860,3000,941,9230.56,A
+0905475075,53,0,Familiar,Masculino,Costa,No,Soltero,0,440,1100,918,46.16,A
+0916890536,-,0,Familiar,Masculino,Costa,No,Soltero,0,,500,464,28.69,A
+0922424445,24,0,Familiar,Masculino,Costa,No,Soltero,0,,,957,43.6,A
+0922430996,24,0,Familiar,Masculino,Costa,No,Soltero,0,,264,480,46.65,A
+0924590649,25,0,Familiar,Masculino,Costa,No,Soltero,0,280,342,36,42.1,A
+1205970534,23,0,Familiar,Masculino,Costa,No,Soltero,0,360,900,874,38.63,A
+1206037622,26,0,Familiar,Masculino,Costa,No,Soltero,0,,,723,158.37,A
+1309027371,35,0,Familiar,Masculino,Costa,No,Soltero,0,,360,917,43.79,A
+1310789894,23,0,Familiar,Masculino,Costa,No,Soltero,0,,,879,56.93,A
+1312796111,24,0,Familiar,Masculino,Costa,No,Soltero,0,,292,733,38.58,A
+2400026825,26,0,Familiar,Masculino,Costa,No,Soltero,0,,,917,40.48,A
+0105262851,27,1,Familiar,Masculino,Sierra,No,Casado,1,360,541,781,52.12,A
